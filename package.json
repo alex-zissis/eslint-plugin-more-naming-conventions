@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin-more-naming-conventions",
+  "name": "eslint-plugin-more-naming-conventions-leading-underscore",
   "version": "1.0.1",
-  "description": "A plugin for the ESLint linter that adds more naming conventions for variables and functions.",
+  "description": "A plugin for the ESLint linter that adds more naming conventions for variables and functions. All credit goes to CodingKoopa for the original plugin. This forked repo simply accepts leading underscores as valid snake case (e.g. let _var;).",
   "keywords": [
     "eslint",
     "eslint-plugin",
@@ -13,12 +13,12 @@
     "upper-camel-case",
     "upper-camelcase"
   ],
-  "homepage": "https://github.com/TheKoopaKingdom/eslint-plugin-more-naming-conventions",
-  "bugs": "https://github.com/TheKoopaKingdom/eslint-plugin-more-naming-conventions/issues",
+  "homepage": "https://github.com/alex-zissis/eslint-plugin-more-naming-conventions",
+  "bugs": "https://github.com/alex-zissis/eslint-plugin-more-naming-conventions/issues",
   "license": "GPL-3.0",
-  "author": "TheKoopaKingdom <thekoopakingdom@gmail.com>",
+  "author": "Alex Zissis <alex_z9@outlook.com>",
   "main": "Source/Index.js",
-  "repository": "TheKoopaKingdom/eslint-plugin-more-naming-conventions",
+  "repository": "alex-zissis/eslint-plugin-more-naming-conventions",
   "scripts": {
     "test": "eslint Source"
   },

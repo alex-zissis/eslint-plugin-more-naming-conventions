@@ -21,6 +21,7 @@ All rules support fixing errors automatically.
 
 Good:
 - `variable_name`
+- `_variable`
 - `variable`
 - `CONSTANT_NAME`
 - `ClassName` (For when the old class syntax is used for defining a class.)
